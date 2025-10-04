@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligent Document Processing (IDP) Application
 
 A serverless document processing application built with AWS CDK that performs OCR, classification, and summarization on uploaded documents.
@@ -172,3 +173,7 @@ This project is created as a prototype for demonstration purposes.
 ## Support
 
 For issues or questions, refer to the validation script output and CloudWatch logs for debugging information.
+=======
+# idp-app-100420251116
+Intelligent Document Processing application with OCR, classification, and summarization using AWS services
+>>>>>>> 5939bf467a29b8eb1322396dcc920c1fd70b6875
